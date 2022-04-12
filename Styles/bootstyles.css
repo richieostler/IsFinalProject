@@ -1,0 +1,40 @@
+/* Richard Ostler, April 12,2022 */
+.navigation{
+    Top:5px;
+    Left:5px;
+    Right:5px;
+    Height:100px;
+    z-index: 3;
+    border-bottom:solid 3px rgb(255, 174, 0);
+    font-size:32px;
+    color:rgb(255, 174, 0);
+    text-align: center;
+}
+.mainbody{
+    Top:114px;
+    left:114px;
+    Right:114px;
+    z-index:2;
+    padding-right:5px;
+}
+.footer{
+    bottom:5px;
+    Height:20px;
+    Left:5px;
+    Right:5px;
+    Position:fixed;
+    Z-index:1;
+}
+.Footertext{
+    Font-size:8px;
+    Color: gray;
+    Text-align:center;
+}
+.common{
+Position:absolute;
+}
+.text{
+    Font-style: Arial;
+    Font-size: 20px;
+    color: rgb(77, 75, 75);
+}

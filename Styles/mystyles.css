@@ -1,0 +1,33 @@
+/* Richard Ostler, April 12,2022 */
+.bold{
+    text-align:justify;
+    font-weight:bold;
+    font-style:normal;
+    Font-size:20px;
+}
+H3{
+    Font-weight:bold;
+    Font-size:32px;
+    font-family:normal;
+    color:goldenrod;
+}
+li{
+    font-weight:normal;
+    font-size:20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(102, 87, 3);
+}
+.heading{
+    font-weight:Bold;
+    font-size:100 px;
+    color:rgb(99, 181, 192);
+}
+.subheading{
+    color:rgb(145, 181, 214);
+}
+.contact{
+    padding-left:30px;
+    font-size:15px;
+    color:gray;
+
+}
